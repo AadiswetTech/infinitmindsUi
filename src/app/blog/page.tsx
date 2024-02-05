@@ -7,8 +7,6 @@ const page = (props: Props) => {
   return (
    <>
    <Blog/>
-   
-   
    </> 
     )
 }
