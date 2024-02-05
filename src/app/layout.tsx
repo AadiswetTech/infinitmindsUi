@@ -4,9 +4,10 @@ import './globals.css'
 import "@/styles/style.css"
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@/styles/responsive.css"
-
+import { ThemeProvider } from "@material-tailwind/react";
 import Navbar from '@/Components/NavBar'
 import Header from '@/Components/Header'
+import Header2 from '@/Components/Header2';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -23,7 +24,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-    <Header/>
+
+    <Header2/>
        
         {children}</body>
     </html>

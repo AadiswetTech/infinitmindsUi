@@ -17,6 +17,7 @@ import OurFeature from '@/Components/OurFeature';
 import OurCustomer from '@/Components/OurCustomer';
 import Partner from '@/Components/Partner';
 import Footer from '@/Components/Footer';
+import Testimonial from '@/Components/Testimonial/Testimonial'
 export default function Home() {
   return (
  
@@ -28,7 +29,7 @@ export default function Home() {
     <Stats/>
     <Feature3/>
     <OurFeature/>
-    <OurCustomer/>
+   <Testimonial/>
     <Partner/>
     <Footer/>
     </>
