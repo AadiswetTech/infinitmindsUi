@@ -10,12 +10,12 @@ const Service1 = (props: Props) => {
 <div className="row">
 <div className="col-lg-6">
 <div className="common-heading text-l">
-<h2 className="mb30"><span className="text-second text-bold">Infinit's Mind</span> Mobile App Development Company</h2>
-<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+<h2 className="mb30"><span className="text-second text-bold">Infinits Mind</span> Mobile App Development Company</h2>
+<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 <p className="mt10"> <span className="text-bold">Lorem Ipsumis simply dummy text of the printing and typesetting industry. Simply dummy text of the printing and typesetting industry. </span></p>
 </div>
 <div className="cta-card mt40">
-<h3 className="mb30">Let's Start a New Project Together</h3>
+<h3 className="mb30">Lets Start a New Project Together</h3>
 <a href="#" className="btn-outline lnk">Request A Quote<i className="fas fa-chevron-right fa-icon"></i><span className="circle"></span></a>
 </div>
 </div>

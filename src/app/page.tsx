@@ -2,7 +2,7 @@ import Contact from '@/Components/Contact'
 import Feature from '@/Components/Feature'
 import HeroSection from '@/Components/HeroSection'
 import Navbar from '@/Components/NavBar'
-import Slider from '@/Components/Slides'
+
 
 import React from 'react'
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -14,7 +14,7 @@ import Stats from '@/Components/Stats';
 
 import Feature3 from '@/Components/Feature3';
 import OurFeature from '@/Components/OurFeature';
-import OurCustomer from '@/Components/OurCustomer';
+
 import Partner from '@/Components/Partner';
 import Footer from '@/Components/Footer';
 import Testimonial from '@/Components/Testimonial/Testimonial'

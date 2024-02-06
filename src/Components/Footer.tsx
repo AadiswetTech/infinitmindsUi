@@ -58,7 +58,7 @@ const Footer = (props: Props) => {
 <h5>Company</h5>
 <ul className="footer-address-list link-hover">
 <li><a href="get-quote.html">Contact</a></li>
-<li><a href="javascript:void(0)">Customer's FAQ</a></li>
+<li><a href="javascript:void(0)">Customers FAQ</a></li>
 <li><a href="javascript:void(0)">Refund Policy</a></li>
 <li><a href="javascript:void(0)">Privacy Policy</a></li>
 <li><a href="javascript:void(0)">Terms and Conditions</a></li>

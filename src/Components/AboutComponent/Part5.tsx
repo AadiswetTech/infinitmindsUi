@@ -10,7 +10,7 @@ const Part5 = (props: Props) => {
 <div className="row justify-content-center">
 <div className="col-lg-8">
 <div className="common-heading-2">
-<span className="text-effect-1">what's going on</span>
+<span className="text-effect-1">whats going on</span>
 <h2 className="mb30">Latest Stories</h2>
 </div>
 </div>

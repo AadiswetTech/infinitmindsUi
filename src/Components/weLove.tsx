@@ -12,7 +12,7 @@ const weLove = (props: Props) => {
 <div className="row justify-content-center">
 <div className="col-lg-8">
 <div className="common-heading">
-<span>Let's work together</span>
+<span> Let work together</span>
 <h2>We Love to Listen to Your Requirements</h2>
 <a href="javascript:void(0)" className="btn-outline">Estimate Project <i className="fas fa-chevron-right fa-icon"></i></a>
 <p className="cta-call">Or call us now <a href="tel:+1234567890"><i className="fas fa-phone-alt"></i> (123) 456 7890</a></p>

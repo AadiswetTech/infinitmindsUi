@@ -13,7 +13,7 @@ const Feature2 = (props: Props) => {
 <div data-tilt data-tilt-max="5" data-tilt-speed="1000" className="col-lg-6-cus wow fadeInUp" data-wow-delay=".2s">
 <div className="service-sec-brp srvc-bg-nx bg-gradient13 text-w">
 <h4 className="mb10">INTEGRATED SERVICES</h4>
-<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500.</p>
 <a href="javascript:void(0)" className="mt20 link-prb">Learn More <i className="fas fa-chevron-right fa-icon"></i></a>
 </div>
 </div>
@@ -27,7 +27,7 @@ const Feature2 = (props: Props) => {
 <li> <a href="#">Java</a> </li>
 <li> <a href="#">Joomla</a></li>
 </ul>
-<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500.</p>
 </div>
 </div>
 <div data-tilt data-tilt-max="5" data-tilt-speed="1000" className="col-lg-3-cus wow fadeInUp" data-wow-delay=".6s">
@@ -40,7 +40,7 @@ const Feature2 = (props: Props) => {
 <li> <a href="#">Shopify </a> </li>
 <li> <a href="#">Joomla</a></li>
 </ul>
-<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500.</p>
 </div>
 </div>
 <div data-tilt data-tilt-max="5" data-tilt-speed="1000" className="col-lg-3-cus mt30- wow fadeInUp" data-wow-delay=".8s">
@@ -52,7 +52,7 @@ const Feature2 = (props: Props) => {
 <li> <a href="#">Android</a> </li>
 <li> <a href="#">Cross Platform </a></li>
 </ul>
-<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500.</p>
 </div>
 </div>
 <div data-tilt data-tilt-max="5" data-tilt-speed="1000" className="col-lg-3-cus mt30- wow fadeInUp" data-wow-delay="1s">
@@ -64,7 +64,7 @@ const Feature2 = (props: Props) => {
 <li> <a href="#">Node.JS </a> </li>
 <li> <a href="#"> Angular.JS </a></li>
 </ul>
-<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500.</p>
 </div>
 </div>
 <div data-tilt data-tilt-max="5" data-tilt-speed="1000" className="col-lg-6-cus mt30- wow fadeInUp" data-wow-delay="1.2s">
@@ -77,7 +77,7 @@ const Feature2 = (props: Props) => {
 <li> <a href="#">PPC </a></li>
 <li> <a href="#">PPC </a></li>
 </ul>
-<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+<p>Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500.</p>
 </div>
 </div>
 </div>

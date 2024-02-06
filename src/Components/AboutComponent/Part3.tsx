@@ -25,7 +25,7 @@ c237.6,5.7,475.3,3.1,712.7-7.7c164.2-7.5,328.1-23.7,492.3-31c0.7,0,15.2-0.5,15.2
 <div className="common-heading-2 text-l">
 <span className="text-effect-1">We Are Creative Agency</span>
 <h2 className="mb20">Work Together For Success</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500.</p>
 </div>
 </div>
 <div className="col-lg-6 v-center">
@@ -38,7 +38,7 @@ c237.6,5.7,475.3,3.1,712.7-7.7c164.2-7.5,328.1-23.7,492.3-31c0.7,0,15.2-0.5,15.2
 <div className="common-heading-2 text-l">
 <span className="text-effect-1">We Are Creative Agency</span>
 <h2 className="mb20">We Craft Beautiful Digital Experiences</h2>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500.</p>
 </div>
 </div>
 </div>
